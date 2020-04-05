@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">营业厅</string>
+    <string name="dialog_title_login">登录</string>
+    <string name="dialog_title_progress">请求中…</string>
+    <string name="dialog_action_cancel">取消</string>
+
+    <string name="toast_req_fail">请求错误</string>
+    <string name="toast_un_login">当前未登录</string>
+</resources>
